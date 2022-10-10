@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romanos", "Romanos\Romanos.csproj", "{80BCDFC5-AA7B-4386-852A-D42E92E3450E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91E442CC-1DFB-4985-9024-C9F301F6306D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BCDFC5-AA7B-4386-852A-D42E92E3450E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BCDFC5-AA7B-4386-852A-D42E92E3450E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BCDFC5-AA7B-4386-852A-D42E92E3450E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BCDFC5-AA7B-4386-852A-D42E92E3450E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A21BA679-84AF-4FE7-9293-BD4E7983261F}
+	EndGlobalSection
+EndGlobal
